@@ -1,0 +1,15 @@
+body.en_US header.fixed-nav {
+    background: yellow;
+}
+
+body.en_US header {
+    background: #fade4b;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    transition: all .15s ease-in-out;
+    z-index: 2000;
+}
+
+
