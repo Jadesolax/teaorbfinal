@@ -710,7 +710,7 @@
               <div class="form-group mt-2">
 
             <button type="submit" class="btn btn-primary">Place Order</button>
-          </div>
+            </div>
             </form>
           </div>
          
