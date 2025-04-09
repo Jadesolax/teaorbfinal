@@ -360,7 +360,7 @@
      <ul class="list-inline-divided">
         <li><span class="icon icon-xs"></span><a href="#products1">Price:   N2500</a></li>
       </ul>
-      <p>Made from 7 different traditional herbs used to treat Malaria, it alleviates body pain and over all wellness.</p>
+      <p>Made from 7 different traditional herbs used to treat Malaria, it alleviates body pain and over all wellness</p>
       <div class='mt-5'>
       <button class='btn btn-md btn-primary' data-target="#orderAnti-malariaTeaModal" data-toggle="modal">Order Now</button>
     </div>
@@ -376,7 +376,7 @@
      <ul class="list-inline-divided">
         <li><span class="icon icon-xs"></span><a href="#products1">Price:   N2500</a></li>
       </ul>
-      <p>It has a strong zesty lemon taste and aroma, with subtle sweetness. It improves immunity and helps with cold and the digestive system.</p>
+      <p>It has a strong zesty lemon taste and aroma, with subtle sweetness. It improves immunity and helps with cold and the digestive system</p>
       <div class='mt-5'>
         <button class='btn btn-md btn-primary' data-target="#orderLemonGrassAndLemonTeaModal" data-toggle="modal">Order Now</button>
       </div>
